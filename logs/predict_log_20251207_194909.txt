@@ -1,0 +1,2 @@
+Predicted class: Fruit
+Confidence: 0.898
